@@ -15,3 +15,5 @@ Before attempting each exercise, it is highly recommended to familiarize yoursel
 - [Services and networking - 13%](6.services.md)
 - [Helm](7.helm.md)
 - [Custom Resource Definitions](8.crd.md)
+
+The content was sourced from [CKAD-exercises](https://github.com/dgkanatsios/CKAD-exercises).
